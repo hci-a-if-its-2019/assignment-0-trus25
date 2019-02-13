@@ -23,3 +23,10 @@ Share ITS has UI that makes it hard to use it, especially finding the course. Th
 
 **Solution**: I think they should just make it a dropbox menu rather than thumbnail or make the thumbnail more organized and bigger so that it will be easier to find any department.
 
+## 3. Blender
+Blender is the free and open source 3D creation suite. It supports the entirety of the 3D pipeline—modeling, rigging, animation, simulation, rendering, compositing and motion tracking, even video editing and game creation.
+
+This app is actually really good despite being free, although the UI is really hard to understand. When someone use it for the first time they would just break the toolbars. We can only use this app freely if we can remember all the hotkeys.
+![alt text](https://github.com/hci-a-if-its-2019/assignment-0-trus25/blob/master/Images/Blender.jpg)
+
+**Solution**: Maybe include the list of hotkeys in the folder when downloading the app
