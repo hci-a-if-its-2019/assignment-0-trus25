@@ -5,6 +5,7 @@ Farhan Zuhdi 05111640000070 IMK A
 1. [Lazada](https://www.lazada.co.id/)
 2. [Share ITS](http://share.its.ac.id/)
 3. Blender
+
 These 3 are the kind of websites/apps that are really hard to understand, unless you visit/use it frequently.
 ## 1. [Lazada](https://www.lazada.co.id/)
 Lazada Indonesia is an online shopping site that offers various types of products, ranging from electronics, books, children's toys and baby equipment, medical devices and beauty products, household appliances, and traveling and sports equipment.
