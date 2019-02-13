@@ -14,3 +14,12 @@ Lazada is currently one of the most popular online shop in Indonesia, largely be
 ![alt text](https://github.com/hci-a-if-its-2019/assignment-0-trus25/blob/master/Images/Lazada.jpg)
 
 **Solution**: from the perspective of a buyer I think they should make the list with page, and make it more organized with bigger thumbnail so I wont overlook any product that may seem interesting.
+
+## 2. [Share ITS](http://share.its.ac.id/)
+Share ITS is an E-learning website provided by ITS which is similar to google classroom.
+![alt text](https://github.com/hci-a-if-its-2019/assignment-0-trus25/blob/master/Images/ShareIts.jpg)
+Share ITS has UI that makes it hard to use it, especially finding the course. The menu for faculty is grouped together with one another which make it hard to find where my department is.
+![alt text](https://github.com/hci-a-if-its-2019/assignment-0-trus25/blob/master/Images/ShareIts2.jpg)
+
+**Solution**: I think they should just make it a dropbox menu rather than thumbnail or make the thumbnail more organized and bigger so that it will be easier to find any department.
+
